@@ -59,3 +59,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = andrewjamesnomad@gmail.com
+	name = Andrew Walton
